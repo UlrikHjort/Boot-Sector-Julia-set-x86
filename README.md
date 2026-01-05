@@ -1,6 +1,6 @@
 # Boot Sector Julia Set
 
-This is a **16-bit x86 boot sector program** that renders a **Julia set fractal** directly to the screen using BIOS video mode **13h (320×200, 256 colors)**.  
+This is a **16-bit x86 boot sector program** that renders a **[Julia set fractal](https://en.wikipedia.org/wiki/Julia_set)** directly to the screen using BIOS video mode **13h (320×200, 256 colors)**.  
 It runs in real mode with **no operating system**, **no filesystem**, and **no floating-point math**.
 
 ---
